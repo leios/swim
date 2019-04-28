@@ -12,8 +12,8 @@ Each set assumes the following:
 	- `pool_type` is one of the following:
 		- `scy`: short-course yards
 		- `scm`: short-course meters
-		- `lcm`: short-course meters
-- `swim(stroke, distance, intensity)` and swim(stroke, distance, intensity, style)` are the primary building blocks for swimming sets and will be provided without further elaboration.
+		- `lcm`: long-course meters
+- `swim(stroke, distance, intensity)` and `swim(stroke, distance, intensity, style)` are the primary building blocks for swimming sets and will be provided without further elaboration.
 	- `stroke` may be any stroke, including: `butterfly`, `backstroke`, `breastroke`, `freestyle`, `scull`, `doggy`
 	- `distance` is provided in either meters or yards, depending on the pool available. For most applications of SWIM, short-course meters are assumed; however
 	- `intensity` is defined with the following keywords:
