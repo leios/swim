@@ -1,7 +1,7 @@
 # swim
 Swim With Individualized Modules
 
-The SWIM psuedocode intends to provide workouts for individuals with an intensity scale from 0 to 10 based on swimming capabilities and time available.
+The SWIM pseudocode intends to provide workouts for individuals with an intensity scale from 0 to 10 based on swimming capabilities and time available.
 Each set is expected to be completed in a 2 hour session and should help develop specific strokes or skills for swimmers.
 
 Each set assumes the following:
@@ -29,6 +29,6 @@ Each set assumes the following:
 
 All sets will be in the `sets` directory with the `.swim` extension.
 
-The SWIM psuedocode was largely inspired as a mix between julia, python, and C syntaxes and is intended to be used for personal use; however, please feel free to modify this notation at will and even submit a PR with your favorite work-out of choice!
+The SWIM pseudocode was largely inspired as a mix between julia, python, and C syntaxes and is intended to be used for personal use; however, please feel free to modify this notation at will and even submit a PR with your favorite work-out of choice!
 
-As a huge disclaimer, I am not a swim coach, I just wanted to write my workouts in psuedo-code.
+As a huge disclaimer, I am not a swim coach, I just wanted to write my workouts in pseudocode.
